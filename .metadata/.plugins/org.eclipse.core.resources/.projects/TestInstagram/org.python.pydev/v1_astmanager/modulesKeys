@@ -1,0 +1,10 @@
+MODULES_MANAGER_V2
+testa.111|F:\instagram\TestInstagram\testa\111.py
+testa.__init__|F:\instagram\TestInstagram\testa\__init__.py
+testa.bind|F:\instagram\TestInstagram\testa\bind.py
+testa.client|F:\instagram\TestInstagram\testa\client.py
+testa.helper|F:\instagram\TestInstagram\testa\helper.py
+testa.json_import|F:\instagram\TestInstagram\testa\json_import.py
+testa.models|F:\instagram\TestInstagram\testa\models.py
+testa.oauth2|F:\instagram\TestInstagram\testa\oauth2.py
+testa.subscriptions|F:\instagram\TestInstagram\testa\subscriptions.py

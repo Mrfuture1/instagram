@@ -1,0 +1,26 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\instagram\.metadata\.plugins\org.eclipse.core.resources\.projects\Test\com.python.pydev.analysis\v2_indexcache
+testabc.111|1438870964912997000|F:\instagram\Test\testabc\111.py
+testabc.__init__|1438863591403831000|F:\instagram\Test\testabc\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=testabc.111
+-- END DICTIONARY
+-- START TREE 1
+10
+acc|0|
+aja|1|ajaxRequest!10@
+cal|0|
+has|1|hashtag!11@
+ima|2|image!11@imageUrl!11@
+ins|3|instagramJSON!11@instagramData!11@instagramDict!11@
+loc|0|
+nex|1|nextUrl!11@
+tim|1|time!11@
+url|0|
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

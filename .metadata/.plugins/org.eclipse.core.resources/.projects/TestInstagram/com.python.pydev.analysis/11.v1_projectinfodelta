@@ -1,0 +1,16 @@
+INSTUPtesta.bind
+F:\instagram\TestInstagram\testa\bind.py
+INFOS:&&3|1|2|0&&2|3|2|0&&1|4|2|0&&2|5|2|4&&3|6|2|7&&3|8|2|7&&2|9|2|4&&1|10|2|0&&2|5|2|10&&3|6|2|11&&3|12|2|11&&3|8|2|11&&2|9|2|10&&2|13|2|0
+error_message=8
+testa.bind=2
+status_code=6
+re_path_template=1
+__str__=9
+InstagramAPIError.__init__=11
+InstagramAPIError=10
+error_type=12
+InstagramClientError=4
+__init__=5
+InstagramClientError.__init__=7
+encode_string=3
+bind_method=13

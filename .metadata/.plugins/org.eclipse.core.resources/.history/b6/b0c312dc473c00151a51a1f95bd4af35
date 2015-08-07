@@ -1,0 +1,10 @@
+import urllib
+def callbackfunc(blocknum, blocksize, totalsize):
+ 
+    percent = 100.0 * blocknum * blocksize / totalsize
+    if percent > 100:
+        percent = 100
+    print "%.2f%%"% percent
+url = 'http://www.sina.com.cn'
+local = 'd:\\sina.html'
+urllib.urlretrieve(url, local, callbackfunc)
